@@ -1,0 +1,124 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #28353D;
+  width: 1500px;
+  height: 340px;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 80px;
+}
+
+.whitegoogle {
+  border: 1px solid white;
+  width: 1440px;
+  height: 64px;
+  background-color: #FBFBFB;
+  display: flex;
+  align-items: center;
+}
+
+#ham {
+  margin-left: 60px;
+}
+
+#gmail6 {
+  margin-left: 40px;
+}
+
+#gmail {
+  margin-left: 20px;
+}
+
+#whiteselect {
+  border: #F2F2F2 solid;
+  display: flex;
+  width: 749px;
+  height: 48px;
+  padding: 8px 24px 8px 16px;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 120px;
+  background-color: #F2F2F2;
+  border-radius: 8px;
+}
+
+#ques {
+  margin-left: 60px;
+}
+
+#set {
+  margin-left: 20px;
+}
+
+#menu {
+  margin-left: 20px;
+}
+
+#user {
+  margin-left: 20px;
+}
+
+.blackgoogle {
+  border: 1px solid;
+  width: 1440px;
+  height: 64px;
+  background-color: #151D20;
+  display: flex;
+  align-items: center;
+}
+
+.hamb {
+  margin-left: 60px;
+}
+
+.gmailM {
+  margin-left: 40px;
+}
+
+#gmailB {
+  margin-left: 20px;
+}
+
+#blackselect {
+  border: #F2F2F2 solid;
+  display: flex;
+  width: 749px;
+  height: 48px;
+  padding: 8px 24px 8px 16px;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 120px;
+  background-color: #F2F2F2;
+  border-radius: 8px;
+}
+
+.quesB {
+  margin-left: 60px;
+}
+
+#setB {
+  margin-left: 20px;
+}
+
+#menuB {
+  margin-left: 20px;
+}
+
+#userB {
+  margin-left: 20px;
+}
+
+/*# sourceMappingURL=main.css.map */
